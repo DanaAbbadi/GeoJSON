@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "boundary-polygon-land-lvl11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME": "ديراب", "NAME_EN": "Dirab", "NAME_RU": null, "ADMIN_LVL": "11", "OSM_TYPE": "relation", "OSM_ID": 13254481, "ADMIN_L1D": null, "ADMIN_L1": null, "ADMIN_L2D": null, "ADMIN_L2": null, "ADMIN_L3D": null, "ADMIN_L3": null, "ADMIN_L4D": null, "ADMIN_L4": null, "ADMIN_L5D": null, "ADMIN_L5": null, "ADMIN_L6D": null, "ADMIN_L6": null, "ADMIN_L7D": null, "ADMIN_L7": null, "ADMIN_L8D": null, "ADMIN_L8": null, "ADMIN_L9D": null, "ADMIN_L9": null, "ADMIN_L10D": null, "ADMIN_L10": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 46.624511, 24.5075516 ], [ 46.6329347, 24.5030385 ], [ 46.6254217, 24.4912593 ], [ 46.6170631, 24.4957728 ], [ 46.624511, 24.5075516 ] ] ] } },
+{ "type": "Feature", "properties": { "NAME": "الفواز", "NAME_EN": "Al Fawwaz", "NAME_RU": null, "ADMIN_LVL": "11", "OSM_TYPE": "relation", "OSM_ID": 13254480, "ADMIN_L1D": null, "ADMIN_L1": null, "ADMIN_L2D": null, "ADMIN_L2": null, "ADMIN_L3D": null, "ADMIN_L3": null, "ADMIN_L4D": null, "ADMIN_L4": null, "ADMIN_L5D": null, "ADMIN_L5": null, "ADMIN_L6D": null, "ADMIN_L6": null, "ADMIN_L7D": null, "ADMIN_L7": null, "ADMIN_L8D": null, "ADMIN_L8": null, "ADMIN_L9D": null, "ADMIN_L9": null, "ADMIN_L10D": null, "ADMIN_L10": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 46.6160234, 24.4955977 ], [ 46.6251009, 24.4907777 ], [ 46.6208942, 24.4840201 ], [ 46.6117316, 24.4888249 ], [ 46.6160234, 24.4955977 ] ] ] } }
+]
+}
