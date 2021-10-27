@@ -1,0 +1,220 @@
+{
+  "type": "FeatureCollection",
+  "name": "building-polygon",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "yes",
+        "ADDR_CITY": "الرياض",
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "هوليدي ان العليا",
+        "NAME_EN": "Holiday Inn Olaya",
+        "NAME_RU": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 672265195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.6906017, 24.6806199]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "yes",
+        "ADDR_CITY": "Riyadh",
+        "A_STRT": "Olaya Road",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": "11454",
+        "B_LEVELS": null,
+        "NAME": "Hilton Garden Inn Riyadh Olaya",
+        "NAME_EN": null,
+        "NAME_RU": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 261096926
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.6937801, 24.6771981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "NAME_EN": null,
+        "NAME_RU": null,
+        "MAN_MADE": null,
+        "LEISURE": null,
+        "AMENITY": null,
+        "OFFICE": null,
+        "SHOP": null,
+        "TOURISM": "hotel",
+        "SPORT": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.6649995, 24.7277713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "NAME_EN": null,
+        "NAME_RU": null,
+        "MAN_MADE": null,
+        "LEISURE": null,
+        "AMENITY": null,
+        "OFFICE": null,
+        "SHOP": null,
+        "TOURISM": "hotel",
+        "SPORT": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.623413,24.771290 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 46.662428 , 24.669902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 46.684109 , 24.690330]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.684233 , 24.692224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.684192 , 24.693146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 46.655285 , 24.704359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.643297 , 24.699491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.663724,24.675648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.688023, 24.683865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 46.717180, 24.630577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.715961, 24.674149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheraton Riyadh",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 46.37512, 24.39569]
+      }
+    }
+  ]
+}
