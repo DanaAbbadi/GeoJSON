@@ -11,6 +11,7 @@
     {
       "type": "Feature",
       "properties": {
+        "STAR": 3,
         "BUILDING": "yes",
         "ADDR_CITY": "الرياض",
         "A_STRT": null,
@@ -27,13 +28,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [46.6906017, 24.6806199]
+        "coordinates": [
+          46.6906017,
+          24.6806199
+        ]
       }
     },
-    
     {
       "type": "Feature",
       "properties": {
+        "STAR": 5,
         "BUILDING": "yes",
         "ADDR_CITY": "Riyadh",
         "A_STRT": "Olaya Road",
@@ -50,12 +54,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [46.6937801, 24.6771981]
+        "coordinates": [
+          46.6937801,
+          24.6771981
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "STAR": 5,
         "NAME": "Sheraton Riyadh",
         "NAME_EN": null,
         "NAME_RU": null,
@@ -71,149 +79,200 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [46.6649995, 24.7277713]
+        "coordinates": [
+          46.6649995,
+          24.7277713
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "STAR": 5,
+        "NAME": "Sheraton Riyadh66",
+        "NAME_EN": null,
+        "NAME_RU": null,
+        "MAN_MADE": null,
+        "LEISURE": null,
+        "AMENITY": null,
+        "OFFICE": null,
+        "SHOP": null,
+        "TOURISM": "hotel",
+        "SPORT": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.623413,
+          24.771290
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STAR": 5,
         "NAME": "Sheraton Riyadh1",
-        "NAME_EN": null,
-        "NAME_RU": null,
-        "MAN_MADE": null,
-        "LEISURE": null,
-        "AMENITY": null,
-        "OFFICE": null,
-        "SHOP": null,
-        "TOURISM": "hotel",
-        "SPORT": null,
-        "OSM_TYPE": "way",
         "OSM_ID": 88345496
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [46.623413,24.771290 ]
+        "coordinates": [
+          46.662428,
+          24.669902
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "NAME": "Sheraton Riyadh2",
+        "STAR": 5,
+        "NAME": "Sheraton Riyadh12",
         "OSM_ID": 88345496
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 46.662428 , 24.669902]
+        "coordinates": [
+          46.684109,
+          24.690330
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "NAME": "Sheraton Riyadh",
+        "STAR": 5,
+        "NAME": "Sheraton Riyadh123",
         "OSM_ID": 88345496
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 46.684109 , 24.690330]
+        "coordinates": [
+          46.684233,
+          24.692224
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "NAME": "Sheraton Riyadh3",
-        "OSM_ID": 88345496
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [46.684233 , 24.692224]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NAME": "Sheraton Riyadh",
-        "OSM_ID": 88345496
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [46.684192 , 24.693146]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
+        "STAR": 5,
         "NAME": "Sheraton Riyadh4",
         "OSM_ID": 88345496
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 46.655285 , 24.704359]
+        "coordinates": [
+          46.684192,
+          24.693146
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "STAR": 5,
+        "NAME": "Sheraton Riyadh42",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.655285,
+          24.704359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STAR": 5,
+        "NAME": "Sheraton Riyadh41",
+        "OSM_ID": 88345496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.643297,
+          24.699491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STAR": 4,
         "NAME": "Sheraton Riyadh5",
         "OSM_ID": 88345496
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [46.643297 , 24.699491]
+        "coordinates": [
+          46.663724,
+          24.675648
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "STAR": 4,
         "NAME": "Sheraton Riyadh6",
         "OSM_ID": 88345496
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [46.663724,24.675648]
+        "coordinates": [
+          46.688023,
+          24.683865
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "STAR": 4,
         "NAME": "Sheraton Riyadh7",
         "OSM_ID": 88345496
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [46.688023, 24.683865]
+        "coordinates": [
+          46.717180,
+          24.630577
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "STAR": 4,
         "NAME": "Sheraton Riyadh8",
         "OSM_ID": 88345496
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 46.717180, 24.630577]
+        "coordinates": [
+          46.715961,
+          24.674149
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "NAME": "Sheraton Riyadh9",
+        "STAR": 4,
+        "NAME": "Sheraton Riyadh98",
         "OSM_ID": 88345496
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [46.715961, 24.674149]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NAME": "Sheraton Riyadh10",
-        "OSM_ID": 88345496
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [ 46.37512, 24.39569]
+        "coordinates": [
+          46.37512,
+          24.39569
+        ]
       }
     }
   ]
