@@ -5,6 +5,7 @@
         "type": "Feature",
         "id":1,
         "properties": {
+          "color":"#32D2A0",
           "name": "Riyadh",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "الرياض"
@@ -22,6 +23,7 @@
         "type": "Feature",
         "id":2,
         "properties": {
+          "color":"#32D2A0",
           "name": "TABUK",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "تبوك"
@@ -39,6 +41,7 @@
         "type": "Feature",
         "id":3,
         "properties": {
+          "color":"#32D2A0",
           "name": "AL BAHA",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "الباحة"
@@ -56,6 +59,7 @@
         "type": "Feature",
         "id":4,
         "properties": {
+          "color":"#32D2A0",
           "name": "AL JOUF",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "الجوف"
@@ -73,6 +77,7 @@
         "type": "Feature",
         "id":5,
         "properties": {
+          "color":"#32D2A0",
           "name": "AL MADINAH AL MUNAWWARAH",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "المدينة المنورة"
@@ -90,6 +95,7 @@
         "type": "Feature",
         "id":6,
         "properties": {
+          "color":"#32D2A0",
           "name": "MAKKAH AL MUKARRAMAH",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "مكة المكرمة"
@@ -107,6 +113,7 @@
         "type": "Feature",
         "id":7,
         "properties": {
+          "color":"#32D2A0",
           "name": "AL QASSEM",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "القصيم"
@@ -124,6 +131,7 @@
         "type": "Feature",
         "id":8,
         "properties": {
+          "color":"#32D2A0",
           "name": "ASEER",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "عسير"
@@ -141,6 +149,7 @@
         "type": "Feature",
         "id":9,
         "properties": {
+          "color":"#32D2A0",
           "name": "EASTERN PROVINCE",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "المنطقة الشرقية"
@@ -158,6 +167,7 @@
         "type": "Feature",
         "id":10,
         "properties": {
+          "color":"#32D2A0",
           "name": "HAIL",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "حائل"
@@ -175,6 +185,7 @@
         "type": "Feature",
         "id":11,
         "properties": {
+          "color":"#32D2A0",
           "name": "JIZAN",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "جازان"
@@ -192,6 +203,7 @@
         "type": "Feature",
         "id":12,
         "properties": {
+          "color":"#32D2A0",
           "name": "NAJRAN",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "نجران "
@@ -209,6 +221,7 @@
         "type": "Feature",
         "id":13,
         "properties": {
+          "color":"#32D2A0",
           "name": "NORTHERN BORDERS",
           "IMG":"https://content.r9cdn.net/rimg/dimg/7d/60/488863c5-city-35744-16935f1b104.jpg?crop=true&width=1366&height=768&xhint=1725&yhint=1010",
           "name_arabic": "الحدود الشمالية"
